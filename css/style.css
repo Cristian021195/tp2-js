@@ -3,3 +3,7 @@
 #main{
     height: 100vh;
 }
+
+table tr td{
+    border: solid 1px #000;
+}

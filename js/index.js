@@ -6,5 +6,7 @@ window.ejercicio2 = ejercicio2;     window.ejercicio6 = ejercicio6;     window.e
 window.ejercicio3 = ejercicio3;     window.ejercicio7 = ejercicio7;     window.ejercicio11 = ejercicio11;       window.ejercicio15 = ejercicio15; window.ejercicio17 = ejercicio17;
 window.ejercicio4 = ejercicio4;     window.ejercicio8 = ejercicio8;     window.ejercicio12 = ejercicio12;       window.ejercicio16 = ejercicio16; window.ejercicio18 = ejercicio18;
 
-window.resultados = document.getElementById('resultados');
+window.$resultados = document.getElementById('resultados');
+
+
 
